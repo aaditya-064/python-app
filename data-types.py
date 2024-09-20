@@ -196,12 +196,12 @@ phoneBoook = {
 #     print("Ram is not in phoneBook")
 
 
-from draw import *
+# from draw import *
 
 
-def play_game(): ...
+# def play_game(): ...
 
 
-def main():
-    result = play_game()
-    draw_game(result)
+# def main():
+#     result = play_game()
+#     draw_game(result)
