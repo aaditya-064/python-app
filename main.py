@@ -1,2 +1,2 @@
-print("hello world")
-print("hello nepal")
+a = ["one", "two", "three", "four"]
+print (a)
